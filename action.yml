@@ -1,5 +1,5 @@
 
-name: 'StandardRB Action'
+name: 'StandardRB Linting Action'
 description: 'A GitHub Action that lints your Ruby code with StandardRB!'
 author: 'Aaron Wortham <wortham.aaron@gmail.com>'
 runs:
